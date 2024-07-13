@@ -1,4 +1,4 @@
-# Project Title: End-to-End Data Engineering Pipeline for Data Analysis
+# Project Title: End-to-End Data Engineering Pipeline(ETL) for Data Analysis
 
 ## Overview:
 This project involved designing and implementing an end-to-end data engineering pipeline that efficiently ingests, processes, and analyzes data sourced from a locally hosted MS SQL Server. The pipeline utilizes various Azure services, including Azure Data Factory, Azure Data Lake, Azure Databricks, and Azure Synapse Analytics, to ensure robust data handling and insightful analysis.
